@@ -1,5 +1,5 @@
 # Google
 
-An effected google made using only CSS and HTML. Please click to see it as animation.
+I tried to emulate the Google sheet. The fonts were not fully set, but an almost similar picture emerged.
 
 [Click here](https://omersb.github.io/Google/).
